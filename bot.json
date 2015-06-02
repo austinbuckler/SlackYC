@@ -1,0 +1,22 @@
+{
+  "username":"Hacker News",
+  "iconURL":"",
+  "iconEmoji":":stuck_out_tongue_winking_eye:",
+  "channel":"#general",
+  "text": "<[url]|[title]>",
+  "unfurlLinks":true,
+  "attachments": [
+    {
+      "fallback":"",
+      "pretext":"",
+      "color":"",
+      "fields": [
+        {
+          "title":"",
+          "value":"",
+          "short":false
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "slack-yc",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "firebase": "^2.2.4",
+    "moment": "^2.10.2",
+    "unirest": "^0.4.0"
+  }
+}
